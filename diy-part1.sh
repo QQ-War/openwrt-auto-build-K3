@@ -17,19 +17,9 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-
-echo 'src-git packages https://github.com/coolsnowwolf/packages  >>feeds.conf.default
-echo 'src-git luci https://github.com/coolsnowwolf/luci  >>feeds.conf.default
-echo 'src-git routing https://git.openwrt.org/feed/routing.git  >>feeds.conf.default
-echo 'src-git telephony https://git.openwrt.org/feed/telephony.git  >>feeds.conf.default
-echo '#src-git video https://github.com/openwrt/video.git  >>feeds.conf.default
 echo 'src-git targets https://github.com/openwrt/targets.git  >>feeds.conf.default
-echo '#src-git oldpackages http://git.openwrt.org/packages.git  >>feeds.conf.default
-echo '#src-link custom /usr/src/openwrt/custom-feed  >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld  >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall  >>feeds.conf.default
-echo '#src-git serverchan https://github.com/tty228/luci-app-serverchan.git  >>feeds.conf.default
-echo '#src-git k3screen https://github.com/lwz322/luci-app-k3screenctrl.git  >>feeds.conf.default
 echo 'src-git wrtbwmon https://github.com/brvphoenix/wrtbwmon  >>feeds.conf.default
 echo 'src-git luci_wrtb https://github.com/brvphoenix/luci-app-wrtbwmon  >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages  >>feeds.conf.default
