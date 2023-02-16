@@ -17,7 +17,6 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo 'src-git targets https://github.com/openwrt/targets.git  >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld  >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall  >>feeds.conf.default
 echo 'src-git wrtbwmon https://github.com/brvphoenix/wrtbwmon  >>feeds.conf.default
